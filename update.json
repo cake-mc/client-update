@@ -1,0 +1,10 @@
+{
+    "Config":[
+        {
+            "version":"1.0",
+            "link":"https://resources.cakeskin.tk/file/client-update/update.zip",
+            "time":"2022.04.15 15:30:28",
+            "description":"1. 更新部分 Mod 版本；|n2. 重新添加 Memory Cleaner Mod，并添加特定 JVM 参数来防止游戏在清理内存时卡顿；|n3. 正式启用 CakeSkin 统一验证服务，防止潜在的冒用用户名现象；|4. 整合包重置，加入更多的优化 Mod 降低占用。"
+        }
+    ]
+}
